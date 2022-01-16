@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Programar JavaScript",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Aprender HTML",
+        "estado": "progreso"
+    },
+    {
+        "titulo": "Adoptar un perrito",
+        "estado": "pendiente"
+    }
+]

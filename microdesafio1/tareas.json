@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Estudiar",
+        "estado": "terminado"
+    },
+    {
+        "titulo": "Leer",
+        "estado": "progreso"
+    },
+    {
+        "titulo": "Aprender",
+        "estado": "pendiente"
+    }
+]
